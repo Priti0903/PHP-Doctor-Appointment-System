@@ -11,7 +11,7 @@ The main objective of the “Doctor Appointment Management System” project is 
 - User-friendly website
 
 ## Screenshots
-![Screenshot 1](screenshot1.png)
+![Picture1](Picture1.png)
 ![Screenshot 2](screenshot2.png)
 
 ## Technologies Used
