@@ -12,7 +12,9 @@ The main objective of the “Doctor Appointment Management System” project is 
 
 ## Screenshots
 ![Picture1](Picture1.png)
-![Screenshot 2](screenshot2.png)
+![Picture2](Picture4.png)
+![Picture3](Picture2.png)
+![Picture4](Picture3.png)
 
 ## Technologies Used
 - HTML
